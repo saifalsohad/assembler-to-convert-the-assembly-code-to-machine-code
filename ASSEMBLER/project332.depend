@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1522156037 source:f:\c++codes\project332\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1522155470 f:\c++codes\project332\r_type.cpp
+	"R_type.h"
+
+1522152062 f:\c++codes\project332\r_type.h
+	<bits/stdc++.h>
+
+1522156395 f:\c++codes\project332\i_type.cpp
+	"I_type.h"
+
+1522151977 f:\c++codes\project332\i_type.h
+	<bits/stdc++.h>
+
+1522065862 source:e:\cse 332 proj\project332\main.cpp
+	<bits/stdc++.h>
+	"R_type.cpp"
+	"I_type.cpp"
+
+1522151870 e:\cse 332 proj\project332\r_type.cpp
+	"R_type.h"
+
+1522148462 e:\cse 332 proj\project332\r_type.h
+	<bits/stdc++.h>
+
+1522152795 e:\cse 332 proj\project332\i_type.cpp
+	"I_type.h"
+
+1522148377 e:\cse 332 proj\project332\i_type.h
+	<bits/stdc++.h>
+
